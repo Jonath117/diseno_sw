@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44442",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\USER\\Desktop\\repositorio1.0\\netspa\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

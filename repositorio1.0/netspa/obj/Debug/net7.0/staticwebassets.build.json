@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Y5Od3u7L2v2M8rwmNBNaYe2ZT5XSrd3BVGIlk0NHtdw=",
+  "Source": "netspa",
+  "BasePath": "_content/netspa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "netspa\\wwwroot",
+      "Source": "netspa",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\repositorio1.0\\netspa\\wwwroot\\",
+      "BasePath": "_content/netspa",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USER\\Desktop\\repositorio1.0\\netspa\\wwwroot\\favicon.ico",
+      "SourceId": "netspa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\repositorio1.0\\netspa\\wwwroot\\",
+      "BasePath": "_content/netspa",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
