@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "F4TABWYdrY7qkAhSBF4wTZgZvh/je1/YM5DICDKumMc=",
+  "Source": "Notis",
+  "BasePath": "_content/Notis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Notis\\wwwroot",
+      "Source": "Notis",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\ejerc_noti\\Notis\\wwwroot\\",
+      "BasePath": "_content/Notis",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USER\\Desktop\\ejerc_noti\\Notis\\wwwroot\\favicon.ico",
+      "SourceId": "Notis",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\ejerc_noti\\Notis\\wwwroot\\",
+      "BasePath": "_content/Notis",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
