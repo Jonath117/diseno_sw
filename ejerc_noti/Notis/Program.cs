@@ -1,8 +1,12 @@
+using Notis.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<INotificacionService, NotificacionService>();
+builder.Services.AddScoped<IExaminadorService, ExaminadorService>();
 
 var app = builder.Build();
 
