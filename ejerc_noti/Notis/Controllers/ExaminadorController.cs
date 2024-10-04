@@ -9,11 +9,15 @@ public class ExaminadorController: ControllerBase
         _examinador = examinador;
     }
 
+    
+
     [HttpPost("aceptar")]
     public void AceptarDocumento()
     {
         _examinador.AprobarDocumento();
     }
+
+
     
 }
 
