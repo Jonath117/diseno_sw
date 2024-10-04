@@ -1,14 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UJbzPAIjptpb9qr504FDw47F5OSjdFmdssEw7pBvsRRZ7u9hMcm5SMQ41Z8KI/9AY1Rr6bo4tgHcR9tPNhqaAQ==",
+  "dgSpecHash": "8C5Ls/UBxQ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\ejerc_noti\\Notis\\Notis.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan 3.0\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\Notis.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+    "C:\\Users\\Jonathan 3.0\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }

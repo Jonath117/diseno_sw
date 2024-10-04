@@ -1,7 +1,10 @@
+using Microsoft.AspNetCore.Mvc;
+using Notis.Services;
+
 public class ExaminadorController: ControllerBase
 {
     private readonly IExaminadorService _examinador;
-    public ExaminadorController(IExaminador examinador)
+    public ExaminadorController(IExaminadorService examinador)
     {
         _examinador = examinador;
     }
@@ -9,7 +12,7 @@ public class ExaminadorController: ControllerBase
     [HttpPost("aceptar")]
     public void AceptarDocumento()
     {
-        return _examinador.AprobarDocumento();
+        _examinador.AprobarDocumento();
     }
     
 }
