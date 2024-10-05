@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "http://localhost:44429",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\USER\\Desktop\\ejerc_noti\\Notis\\ClientApp\\",
+"WorkingDirectory": "C:\\Users\\Equipo\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\ClientApp\\",
 "MaxTimeoutInSeconds": "120"
 }
 }
