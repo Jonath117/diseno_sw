@@ -3,7 +3,9 @@
     class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3"
   >
     <div class="container">
-      <a class="navbar-brand" [routerLink]="['/']">Notis</a>
+      <h1>
+        <a class="navbar-brand" [routerLink]="['/']">Nombre y Logo de la Institución</a>
+      </h1>
       <button
         class="navbar-toggler"
         type="button"
@@ -19,25 +21,31 @@
         class="navbar-collapse collapse d-sm-inline-flex justify-content-end"
         [ngClass]="{ show: isExpanded }"
       >
+
+      <!--
         <ul class="navbar-nav flex-grow">
           <li
             class="nav-item"
             [routerLinkActive]="['link-active']"
             [routerLinkActiveOptions]="{ exact: true }"
           >
-            <a class="nav-link text-dark" [routerLink]="['/']">Home</a>
+            <a class="nav-link text-dark" [routerLink]="['/']">Inicio</a>
           </li>
           <li class="nav-item" [routerLinkActive]="['link-active']">
-            <a class="nav-link text-dark" [routerLink]="['/counter']"
-              >Counter</a
-            >
+            <a class="nav-link text-dark" [routerLink]="['/about']">Acerca de</a>
           </li>
           <li class="nav-item" [routerLinkActive]="['link-active']">
-            <a class="nav-link text-dark" [routerLink]="['/fetch-data']"
-              >Fetch data</a
-            >
+            <a class="nav-link text-dark" [routerLink]="['/contact']">Contacto</a>
           </li>
         </ul>
+        -->
+
+        
+        <div class="user-actions">
+          <button class="btn btn-outline-dark">Subir Archivo</button>
+          <button class="btn btn-outline-dark">Iniciar Sesión</button>
+          <!--<button class="btn btn-outline-dark">Registrar</button>-->
+        </div>
       </div>
     </div>
   </nav>

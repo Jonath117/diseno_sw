@@ -1,21 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Xa0UC6gfef4=",
+  "dgSpecHash": "8C5Ls/UBxQ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Equipo\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\Notis.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan 3.0\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\Notis.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512",
-    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+    "C:\\Users\\Jonathan 3.0\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\Equipo\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -1,0 +1,133 @@
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  header .logo h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  header .user-actions button {
+    margin: 0 5px;
+    padding: 8px 12px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+  
+  header .user-actions button:hover {
+    background-color: #ddd;
+  }
+  
+  /* Main layout */
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .sidebar {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .sidebar nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar nav ul li {
+    margin: 15px 0;
+  }
+  
+  .search-bar {
+    display: flex;
+  }
+  
+  .search-bar input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .search-bar .search-button {
+    padding: 8px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  /* Content area */
+  .content {
+    padding: 20px;
+  }
+  
+  .welcome {
+    margin-bottom: 30px;
+  }
+  
+  .communities {
+    margin-bottom: 30px;
+  }
+  
+  .communities ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .communities ul li {
+    margin: 10px 0;
+  }
+  
+  .featured {
+    margin-top: 20px;
+  }
+  
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .articles-grid article {
+    padding: 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .articles-grid img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  footer ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  footer ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
