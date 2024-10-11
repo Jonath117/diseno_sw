@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Tvo96TfeafJmckXGzlw2ZqZFjt6YR1Qwrfc0g4Ptmck=",
+  "Hash": "7CucBxazkeV6B2ECNt1PIMMDxgaYPZLj0tAfyVKHzb8=",
   "Source": "Notis",
   "BasePath": "_content/Notis",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Notis\\wwwroot",
       "Source": "Notis",
-      "ContentRoot": "C:\\Users\\Jonathan 3.0\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Equipo\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\wwwroot\\",
       "BasePath": "_content/Notis",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jonathan 3.0\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Equipo\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\wwwroot\\favicon.ico",
       "SourceId": "Notis",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jonathan 3.0\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Equipo\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\wwwroot\\",
       "BasePath": "_content/Notis",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
