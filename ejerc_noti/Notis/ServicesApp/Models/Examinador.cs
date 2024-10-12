@@ -3,9 +3,9 @@ namespace Notis.Models;
 public class Examinador
 {
     int ID {get; set;}
-    string Nombre {get; set;}
-    string Correo {get; set}
-    string Contrasena {get; set}
+    string Nombre ;
+    string Correo ;
+    string Contrasena ;
 
     public Examinador(int id, string nombre, string correo, string contrasena)
     {
