@@ -1,3 +1,5 @@
+using System.Reflection.Metadata;
+using Notis.Models;
 using Notis.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<INotificacionService, NotificacionService>();
 builder.Services.AddScoped<IExaminadorService, ExaminadorService>();
+builder.Services.AddScoped<IDocenteService, DocenteService>();
+
+builder.Services.AddScoped<IDocumentoService, DocumentoService>();
 
 var app = builder.Build();
 

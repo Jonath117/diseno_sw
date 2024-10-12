@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "Notis"
+  "defaultProject": "Notis",
+  "cli": {
+    "analytics": false
+  }
 }
