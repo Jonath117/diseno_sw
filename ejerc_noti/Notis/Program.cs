@@ -1,3 +1,4 @@
+using Notis.Models;
 using Notis.Services;
 
 var builder = WebApplication.CreateBuilder(args);
