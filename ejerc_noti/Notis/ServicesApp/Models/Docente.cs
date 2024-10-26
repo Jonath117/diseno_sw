@@ -9,14 +9,4 @@ public class Docente
         ID = id;
         Nombre = nombre;
     }
-
-    public void EnviarDocumento()
-    {
-        throw new NotImplementedException();
-    }
-
-    public void RecibirDocumento()
-    {
-        throw new NotImplementedException();
-    }
 }

@@ -1,4 +1,3 @@
-using Notis.Models;
 using Notis.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,7 +6,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<INotificacionService, NotificacionService>();
-builder.Services.AddScoped<IExaminadorService, ExaminadorService>();
+builder.Services.AddScoped<IExaminadorService, ExaminadorService>(); // Aquí principio de sustitución de liskov
+builder.Services.AddScoped<IDocumentoService, DocumentoService>();
+builder.Services.AddScoped<IDocenteService, DocenteService>();
 
 var app = builder.Build();
 

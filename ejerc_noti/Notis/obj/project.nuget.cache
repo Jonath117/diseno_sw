@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qg6gTVPuXqs=",
+  "dgSpecHash": "OnhqfTxX9l8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Equipo\\Documents\\GitHub\\diseno_sw\\ejerc_noti\\Notis\\Notis.csproj",
+  "projectFilePath": "C:\\Users\\Equipo\\Documents\\diseno_sw\\ejerc_noti\\Notis\\Notis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512"
   ],
