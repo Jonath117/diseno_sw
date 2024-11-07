@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "OnhqfTxX9l8=",
+  "dgSpecHash": "UDpzi73j3xN45IUSNiTZ9STjQ5CTWhKFkEkJuSETaQUeY8t0tGokVbhHlOoYEuFxkScTbgaXJl1tNN+vNcHQ7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Equipo\\Documents\\diseno_sw\\ejerc_noti\\Notis\\Notis.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Progra2\\diseno_sw\\ejerc_noti\\Notis\\Notis.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Equipo\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }
