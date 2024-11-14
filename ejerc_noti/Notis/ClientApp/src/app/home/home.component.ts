@@ -13,5 +13,6 @@ export class HomeComponent {
     { title: 'Artículo 4', description: 'Descripción del artículo 4', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ct-xESXgEwy6nqpU4foOcHMvVljUW_xdhw&s' },
     { title: 'Artículo 5', description: 'Descripción del artículo 5', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsQFGPL7VaOGNUSn8s02UGXYvRoA8TH31uw&s' },
     { title: 'Artículo 6', description: 'Descripción del artículo 6', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYgnzugAnP3IlsHP9O8JBhwf86mwIRV5rFg&s' }
+    
   ];
 }
